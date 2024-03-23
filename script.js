@@ -6,18 +6,18 @@
 //examples of work and keyword
 
 
-#keywords  
+//#keywords  
 //for, is, if, else
 
-#variables&constants
+//#variables&constants
 
 //variable is that where we staore the Data 
 //constants are that which are never changes
 
-#hoisting
+//#hoisting
 // variables= and fuctions are hoisted which means there declaration is moved on the top of code.
 
-#types in JS
+//#types in JS
 //They are two types
 //reference = {} [] () 
  
@@ -30,7 +30,7 @@ var a = [12,13]
 var b = a;
 
 
-#conditionals 
+//#conditionals 
 // if-else,else-if
 if(11>12){
 
@@ -45,7 +45,7 @@ else{
 
 }
 
-#loops - means-repeat
+//#loops - means-repeat
 //example 3 time print name
 console.log("aman");
 console.log("aman");
@@ -60,7 +60,7 @@ for(var i = 0; i<11; i++){
 }
 
 
-#functions
+//#functions
 // 1 jab aapka code aap turant chalaana nhi chahte future me chalana chahte ho.
 // 2 jab aap code reuse krna chahte ho
 // 3 jab aap code chalana chahte ho har baar with different data
@@ -74,7 +74,7 @@ function helobolo(){
 }
 helobolo();
 
-function (a,b,c){
+function abc(a,b,c) {
   console.log(a,b,c);
 }
 abc(12,13,14);
@@ -89,14 +89,14 @@ abc(12,13,14);
 
 // array = group of values  
 
-var arr = [1,2,3,4,5] values start from 0 index 
+// var arr = [1,2,3,4,5] values start from 0 index 
 
 // push pop shift unshift
 
 arr.slice(2,1)
 
 
-#objects - ek se jyada bande ki baat ki to hua array, ek bande ke baare me saari baat ki to hua object 
+// #objects - ek se jyada bande ki baat ki to hua array, ek bande ke baare me saari baat ki to hua object 
 
 // object hai ek bande ki detail ko hold karna, in a key value pair
 
@@ -106,10 +106,8 @@ var a= {}
 // 2) filled object
 var a = {
   age: 24,
-  name: "Harsh"
-  email: anything@gmail.com
-  linkedin: "mohit"
-  contact: t55778u213t612u3u
-}
-
-
+  name: "Harsh",
+  email: "www.anything@gmail.com", 
+  linkedin: "mohit",
+  contact: "t55778u213t612u3u"
+};
