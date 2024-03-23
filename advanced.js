@@ -18,7 +18,6 @@ function abcd(){
 // let braces scoped hota hai 
 // let braces scopred hota hau .
 // let braces scoped hota hai.
-
 // js language me kuch cheezen nahi hai jo hum use kar sakte haiu aur wo cheeje hume 
 // js se nhi balki browser se milti hai, aise saare features jo js ka part nahi hai but
 // fir bhi use kar sakte hai unhe hum dhoondh sakte hai ek particular object me jiska naam hai window.  

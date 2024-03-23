@@ -83,7 +83,7 @@ abc(12,13,14);
 //parameter = variables jinme value store hoti hai arguments waali
 
 
-#arrays = hum ek variable me ek value store kar paae hai par jab 
+// #arrays = hum ek variable me ek value store kar paae hai par jab 
 //hamein ek se jyada value store karni ho tab fir use hota hai array ka, 
 //matlab ki array aapko freedom deta hai ek se jyada value use karne ki
 
@@ -96,7 +96,7 @@ var arr = [1,2,3,4,5] values start from 0 index
 arr.slice(2,1)
 
 
-#objects - ek se jyada bande ki baat ki to hua Array, ek bande ke baare me saari baat ki to hua object 
+#objects - ek se jyada bande ki baat ki to hua array, ek bande ke baare me saari baat ki to hua object 
 
 // object hai ek bande ki detail ko hold karna, in a key value pair
 
