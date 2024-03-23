@@ -51,9 +51,9 @@ console.log("aman");
 console.log("aman");
 console.log("aman");
 
-for(Start;end;change){
+// for(Start;end;change){
 
-}
+//}
 
 for(var i = 0; i<11; i++){
   console.log(i);
@@ -93,7 +93,7 @@ abc(12,13,14);
 
 // push pop shift unshift
 
-arr.slice(2,1)
+//arr.slice(2,1)
 
 
 // #objects - ek se jyada bande ki baat ki to hua array, ek bande ke baare me saari baat ki to hua object 
